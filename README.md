@@ -1,3 +1,7 @@
+# Note
+
+This repo has been archived, new image `alpine/curl` is managed under https://github.com/alpine-docker/multi-arch-libs/tree/master/curl
+
 # alpine/curl
 
 [If enjoy, please consider buying me a coffee.](https://www.buymeacoffee.com/ozbillwang)
